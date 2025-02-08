@@ -1,5 +1,7 @@
 # custom crap
 data/russian/*grams.txt
+*.swp
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
